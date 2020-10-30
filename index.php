@@ -6,9 +6,9 @@
     <title>Hello world</title>
 </head>
 <body>
-    <h1>My First Project</h1>
-    <p>สวรส คงสัมฤทธิ์</p>
-    <img src="cat.jpg">
+    <h1>My First Heading</h1>
+    <p>My First Paragraph</p>
+    <img src="cat.jpg" alt="">
     <br>
     <a href="https://www.it.kmitl.ac.th">This is a Link</a>
 
